@@ -1,9 +1,14 @@
-# Build Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
+# Ani-Anime 
 
-![Anime Website](https://i.ibb.co/MG1nbqt/YT-Thumbnails-2.png)
+<p align="center">
+<img width="1104" alt="Screenshot 2024-06-24 at 23 06 00" src="https://github.com/Anish-xii/Ani-Anime/assets/164672680/0971c470-e7d4-4332-a984-4aa8de775a7a">
+</p>
 
-### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-### [📙 Free Three.js Cheatsheet](https://resource.jsmastery.pro/threejs-cheatsheet)
-### [🌐 Best Hosting for Your Websites](https://hostinger.com/javascript10)
+Welcome to AniAnime, your ultimate destination for discovering and exploring anime! This webpage utilizes 
+server-side rendering powered by Next.js to provide you with a seamless and responsive browsing experience.
 
+## Technologies
+
+- Next.js: For server-side rendering and seamless navigation.
+- React: Powering the frontend components.
+- CSS Modules: To maintain scoped styling.
